@@ -1,0 +1,6 @@
+Flask~=1.1.2
+PyFladesk~=1.1
+pdfplumber~=0.5.26
+pandas~=1.1.5
+Flask-Dropzone~=1.5.4
+openpyxl~=3.0.6
